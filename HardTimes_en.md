@@ -40,7 +40,6 @@ We rely <ins>only</ins> on ourselves; in Hard Times, governments will be overloa
 
 Let's focus on preparing for non-standard events.
 
-</br>
 ## Economic disaster
 
 We emphasize that there will be no crisis, but an economic catastrophe.
