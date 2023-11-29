@@ -74,7 +74,7 @@ Give up expensive purchases, enter economical mode. Buy only what will help you 
 
 We expect mass strikes and riots, people losing their jobs. Strikes will be brutally [suppressed](https://www.military.com/military-life/6-times-military-was-used-suppress-civilian-uprisings-us.html) by the army and police.
 
-<br>
+
 ## Pollution
 
 We are sure that many regions of the Earth will face environmental pollution. From London and Vancouver to Beijing.
@@ -208,7 +208,7 @@ Protocol in case you are not in the 30-kilometer zone, otherwise there will most
 13. Distribute individual respirators that can be signed.
 14. Pray.
 
-<br>
+
 ## Famine
 
 Let us immediately clarify that we expect full-blown famine (even to the point of cannibalism) in Africa. In Europe and North America there is unlikely to be a famine, but there will be <ins>food shortages</ins>. When there is a food shortage, the first thing governments will do is introduce food stamps. It is also possible for food to be confiscated from farmers by the "government".
@@ -307,7 +307,7 @@ We provided a complete list of vitamins in the section “Pollution -> Vitamins, I
 * [Emergency rations](https://military.pl/en/c/survival-bushcraft-tourism/long-term-food/military-food-rations)
 * [20 products with a long shelf life](https://www.youtube.com/watch?v=KJQ2DhdRAcM). 
 
-<br>
+
 ## Additions
 
 * Make a local backup of all important files, books, movies, music, photos. Because there may be long Internet outages.
@@ -317,7 +317,7 @@ We provided a complete list of vitamins in the section “Pollution -> Vitamins, I
 
 Follow global news more than local ones, <ins>read between the lines</ins>.  
 
-<br>
+
 ## Conclusion
 
 There is a theory that: the apocalypse is an individual phenomenon. If a person cannot remember the last time he heard birds singing, then for him the birds have already fallen silent. If he can’t remember when he looked at the stars, then for him the stars have already gone out...
@@ -328,5 +328,5 @@ In Hard Times, the main thing is not to lose your human nature.
 We have a responsibility for our children before the Family.
 Blaming anyone is a waste of energy. We need to draw conclusions and continue to follow the golden spiral of evolution.
 
-<br>
+
 The rights to the text belong to all people
