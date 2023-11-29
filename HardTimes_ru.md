@@ -71,7 +71,7 @@ Version 1.0: 2023.11.05
 
 Запасы наличности на 2-3 года жизни. Валюты выбирать по своему региону. Общая схема распределения валюты: 70% в USD, 30% в EUR или GBP.
 
-Если имеется больше денег, можно закупить металлическое золото в слитках, но хранить не в банковских ячейках, а только у себя. Но надо помнить, что могут ввести запрет на торговлю физически золотом ([Executive Order 6102](https://en.wikipedia.org/wiki/Executive_Order_6102)) и даже ввести [криминальную ответственность за хранение золота](https://www.sbcgold.com/blog/a-dangerous-precedent-executive-order-6102/) у физических лиц
+Если имеется больше денег, можно закупить металлическое золото в слитках, но хранить не в банковских ячейках, а только у себя. Но надо помнить, что могут ввести запрет на торговлю физически золотом ([Executive Order 6102](https://en.wikipedia.org/wiki/Executive_Order_6102)) и даже ввести [криминальную ответственность за хранение золота](https://www.sbcgold.com/blog/a-dangerous-precedent-executive-order-6102/) у физических лиц.
 
 Также можно закупать товары долгого хранения, которые могут пригодиться в Сложные Времена для продажи/обмена.
 
@@ -124,7 +124,7 @@ Version 1.0: 2023.11.05
 – Подготовить "**тревожный рюкзак**" для экстренной эвакуации.
 
 – **Противогазы и респираторы**.  Респиратор должен иметь защиту от аэрозолей FFP3 рекомендуеться с клапаном выдоха:
-* [3M](https://www.3m.com/3M/en_US/p/c/ppe/respiratory-protection/disposable/) бумажный/тканевый респиратор можно носить долго, если чистить..
+* [3M](https://www.3m.com/3M/en_US/p/c/ppe/respiratory-protection/disposable/) бумажный/тканевый респиратор можно носить долго, если чистить.
 * [3M 7500](https://www.3m.com/3M/en_US/p/dc/v000057592/) + HEPA фильтры [3M 6035](https://www.3m.com.ua/3M/uk_UA/p/d/v000077057/)
 
 – **Экстренные запасы воды и еды** легкого/быстрого приготовления минимум на две недели, обернутые пленкой.
@@ -136,7 +136,7 @@ Version 1.0: 2023.11.05
 
 Фильтры воды можно стационарные с ионообменной мембраной. Также кувшинные с картриджами. В Интернете есть разные [сравнения](https://www.youtube.com/watch?v=HeRGnHuYol8) фильтров.
 Рекомендуем запастись фильтрами воды минимум на 2 года. 
-От радионуклидов хорошо фильтрует энтеросорбент [Цеолит](https://en.wikipedia.org/wiki/Zeolite)
+От радионуклидов хорошо фильтрует энтеросорбент [Цеолит](https://en.wikipedia.org/wiki/Zeolite).
 
 – **Витамины, Йод и биодобавки**
 
@@ -170,7 +170,7 @@ Version 1.0: 2023.11.05
 
 – **Защитная одежда при выходе на улицу:**
 
-* При радиационном загрязнении необходимо защитить ноги от пыли. [Бахилы одноразовые](https://rozetka.com.ua/bahili/c4644376/?gad_source=1&gclid=Cj0KCQjw-pyqBhDmARIsAKd9XINU-jMHteHIYT5SEUTdx38zFiwZRmvGG7miPPQs9pYnfgCkUZEhNekaAgpbEALw_wcB), but но лучше - бахилы многоразовые высокие до колена [1](https://mishutki.com.ua/p1686118663-bahily-vysokie-sadovye.html?source=merchant_center&gad_source=1&gclid=Cj0KCQjw-pyqBhDmARIsAKd9XIPvLRTKGEC8vjx_aRgCE1WT6C9LirDoiV7_pQW8WFdzQGq_nBdComgaAlsbEALw_wcB), [2](https://kyivziz.com.ua/ru/specodezhda/kombinezony-kratkosrochnogo-ispolzovaniya/3m-450/?gclid=Cj0KCQjw-pyqBhDmARIsAKd9XINnhMnkMyR4x-_ZDkxVXCuIJ4odce7eIabh11s6e4DPfjNseBrKJYUaAs-NEALw_wcB&utm_source=google&utm_medium=cpc&utm_campaign=shopping_vdalo&utm_term=&utm_content=) или [Чехлы-бахилы ПВХ для обуви](https://coolnice.com.ua/vitrina/chehlyi-bahilyi-pvh-dlya-obuvi-ot-dozhdya-coolnice-belyie-vyisokie/?gad_source=1&gclid=Cj0KCQjw-pyqBhDmARIsAKd9XIPTRUFOOQrZVvoh32lZMdoAWAChQ5bAXnIWz4nq0ELNicTYwbeXeLYaAkk5EALw_wcB). Многоразовые бахилы можно оставлять за дверью. 
+* При радиационном загрязнении необходимо защитить ноги от пыли. [Бахилы одноразовые](https://rozetka.com.ua/bahili/c4644376/?gad_source=1&gclid=Cj0KCQjw-pyqBhDmARIsAKd9XINU-jMHteHIYT5SEUTdx38zFiwZRmvGG7miPPQs9pYnfgCkUZEhNekaAgpbEALw_wcB), но лучше - бахилы многоразовые высокие до колена [1](https://mishutki.com.ua/p1686118663-bahily-vysokie-sadovye.html?source=merchant_center&gad_source=1&gclid=Cj0KCQjw-pyqBhDmARIsAKd9XIPvLRTKGEC8vjx_aRgCE1WT6C9LirDoiV7_pQW8WFdzQGq_nBdComgaAlsbEALw_wcB), [2](https://kyivziz.com.ua/ru/specodezhda/kombinezony-kratkosrochnogo-ispolzovaniya/3m-450/?gclid=Cj0KCQjw-pyqBhDmARIsAKd9XINnhMnkMyR4x-_ZDkxVXCuIJ4odce7eIabh11s6e4DPfjNseBrKJYUaAs-NEALw_wcB&utm_source=google&utm_medium=cpc&utm_campaign=shopping_vdalo&utm_term=&utm_content=) или [Чехлы-бахилы ПВХ для обуви](https://coolnice.com.ua/vitrina/chehlyi-bahilyi-pvh-dlya-obuvi-ot-dozhdya-coolnice-belyie-vyisokie/?gad_source=1&gclid=Cj0KCQjw-pyqBhDmARIsAKd9XIPTRUFOOQrZVvoh32lZMdoAWAChQ5bAXnIWz4nq0ELNicTYwbeXeLYaAkk5EALw_wcB). Многоразовые бахилы можно оставлять за дверью. 
 * Волосы защищать платками.
 * При радиационных выбросах в атмосферу часто идут радиационные дожди. Необходимо носить с собой плащ полиэтиленовый. 
 * После возвращения домой измерять уровень радиации рук, бахил и волос.
@@ -187,7 +187,7 @@ Version 1.0: 2023.11.05
 
 – **Запасы**
 
-In general, stock up on everything you regularly buy in stores, pharmacies, and the Internet. Temporary shortages are possible for any product.
+В общем сделать запасы всего, что вы регулярно покупаете в магазинах, аптеках, Интернете. Временный дефицит возможен на любой товар.
 
 * Одежда и обувь
 * Сделать запасы средств личной гигиены на два года: мыло, стиральный порошок и т.д.
@@ -204,9 +204,9 @@ In general, stock up on everything you regularly buy in stores, pharmacies, and 
 Протокол на случай, если вы не в 30-и километровой зоне, иначе вероятнее всего, будет эвакуация. Многие пункты подходят также при химических/биологических загрязнениях.
 
 1. Как только узнали что, в городе повышенный уровень радиации, предупредить близких и знакомых, все немедленно едут домой.
-1.1 Находясь на улице, немедленно защитите органы дыхания платком (шарфом).
-1.2 Придя домой, измерьте радиацию верхней одежды и обувь, если выше 0.30 µSv/h поместите одежду в мусорный пакет герметичный.  
-1.3 примите душ.
+<br />1.1 Находясь на улице, немедленно защитите органы дыхания платком (шарфом).
+<br />1.2 Придя домой, измерьте радиацию верхней одежды и обувь, если выше 0.30 µSv/h поместите одежду в мусорный пакет герметичный.  
+<br />1.3 примите душ.
 
 2. Отключить систему вентиляции помещения. 
 3. Слушать радио: нужно ли принимать йод. Чем ближе к эпицентру тем быстрее надо принимать. Таблетку лучше заесть чистой едой. 
@@ -295,7 +295,7 @@ In general, stock up on everything you regularly buy in stores, pharmacies, and 
 5. Крепко закручиваем бутыль. Также можно залить крышку воском. 
 
 – Очень рекомендуем сделать запас концентрированных витаминов. Как говорят выживальщики, при выборе: одна таблетка витаминов или килограмм макарон, однозначно выбираем витамины. 
-Полный список витаминов мы проводили в разделе “Загрязнения -> Витамины, Йод и биодобавки. 
+Полный список витаминов мы проводили в разделе "Загрязнения -> Витамины, Йод и биодобавки". 
 Здесь мы повторим основное для питания:
 * [Multivitamins](https://ua.iherb.com/c/multivitamins)
 * [Vitamin B Complex](https://ua.iherb.com/c/vitamin-b-complex) (особенно для вегетарианцев)
@@ -318,9 +318,9 @@ In general, stock up on everything you regularly buy in stores, pharmacies, and 
 * [Зерна для проращивания](https://sz.lviv.ua/ru/bakalija/zlaky/)  
 * Приправы: паприка, петрушка, куркум, лавровый лист много для консервации.
 * Чечевица, нут, горох
-* Суперфуды: Амарант, Киноа (хранение при вакууме или [folk remedies](https://www.youtube.com/watch?v=nIeNgvOdxGg))
-* Крупы: гречка, овсянка, пшоно, перловка, рис  (хранение при вакууме или [folk remedies](https://www.youtube.com/watch?v=nIeNgvOdxGg))
-* [Сахарr](https://www.ukr-produkt.com/product-page/%D1%86%D1%83%D0%BA%D0%BE%D1%80-%D0%B1%D1%83%D1%80%D1%8F%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9), соль много
+* Суперфуды: Амарант, Киноа (хранение при вакууме или [народными средствами](https://www.youtube.com/watch?v=nIeNgvOdxGg))
+* Крупы: гречка, овсянка, пшоно, перловка, рис  (хранение при вакууме или [народными средствами](https://www.youtube.com/watch?v=nIeNgvOdxGg))
+* [Сахар](https://www.ukr-produkt.com/product-page/%D1%86%D1%83%D0%BA%D0%BE%D1%80-%D0%B1%D1%83%D1%80%D1%8F%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9), соль много
 * [augason farms](https://www.google.com/search?q=augason+farms)
 * [Экстренные рационы](https://military.pl/en/c/survival-bushcraft-tourism/long-term-food/military-food-rations)
 * [20 продуктов с длительным сроком хранения](https://www.youtube.com/watch?v=KJQ2DhdRAcM). 

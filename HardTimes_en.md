@@ -59,6 +59,7 @@ The easiest scenario is the 2008 crisis multiplied by three. But we are sure tha
 #### Preparation:
 
 – [Bank Run](https://en.wikipedia.org/wiki/Bank_run)
+
 You should urgently withdraw cash from bank accounts. Because not only banks will go bankrupt, but also deposit guarantee funds (EDIS, FDIC: Federal Deposit Insurance Corporation). For example, the American Federal Deposit Insurance Corporation has the right to return funds for 20 years!
 
 – **Diversification**
@@ -145,7 +146,7 @@ If you are not in a 30-kilometer zone, then potassium iodide can be taken once (
 * [Kelp iodine, Kelp, Solgar, North Atlantic ](https://biotus.ua/laminarija-jod-kelp-solgar-severo-atlanticheskaja-250-tabletok.html?gclid=Cj0KCQjwjt-oBhDKARIsABVRB0yBGQWJ73TDtRjx05f-dghU47Bo0KuAIODd7d2MFsRbiBF6oMRBrmQaAnTeEALw_wcB)
 * [Multivitamins + minerals, Super 1 Daily, Carlson Labs](https://biotus.ua/mul-tivitaminy-mineraly-super-1-daily-carlson-labs-1-v-den-180-vegetarianskih-tabletok.html)
 * [Multivitamin formula, Two-Per-Day Multivitamin](https://biotus.ua/mul-tivitaminnaja-formula-two-per-day-life-extension-120-kapsul.html)
-* [Vegetatian DHA, ?????-3, Naturally Sourced Omega-3, Solgar](https://biotus.ua/dgk-vegetarianskaja-omega-3-naturally-sourced-omega-3-solgar-200-mg-50-gelevyh-kapsul.html)
+* [Vegetatian DHA, Omega-3, Naturally Sourced Omega-3, Solgar](https://biotus.ua/dgk-vegetarianskaja-omega-3-naturally-sourced-omega-3-solgar-200-mg-50-gelevyh-kapsul.html)
 * [Vitamin D3](https://ua.iherb.com/pr/mrm-nutrition-vegan-vitamin-d3-2-500-iu-60-vegan-capsules/50384)
 * [B12](https://ua.iherb.com/pr/now-foods-methyl-b-12-1-000-mcg-100-lozenges/449)
 * [Vitamin C](https://ua.iherb.com/c/vitamin-c)
@@ -156,7 +157,7 @@ If you are not in a 30-kilometer zone, then potassium iodide can be taken once (
 [Enterosorbents](https://www.uatom.org/ru/2019/07/24/chernobylskaya-aptechka.html) help bind and remove heavy metals and radionuclides.
 The most famous is natural Zeolite. It can be taken as a dietary supplement or used as a water filter.
 
-* [Macrosorb, natural sorbent ](https://biotus.ua/ua/makrosorb-prirodnyj-sorbent-choice-70-g.html?gclid=CjwKCAjw4P6oBhBsEiwAKYVkq9JdnEx8itjiB1_RN_u0J7cRRKmurWv_TKZbC_-shmVX2t74y3TJRBoCahMQAvD_BwE#yt_tab_faqform)
+* [Zeolite 240 Capsules](https://www.amazon.com/Capsules-Clinoptilolite-Activated-Less-Than-Heiltropfen%C2%AE/dp/B089YD9JSG)
 * [Natural Zeolite](https://soda.in.ua/natural_zeolite?utm_source=google&utm_medium=cpc&utm_campaingid=11509330298&utm_keyword=%D1%86%D0%B5%D0%BE%D0%BB%D0%B8%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0%20%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0&utm_term=111877186506&gclid=CjwKCAjw4P6oBhBsEiwAKYVkq7KYVtgGf5yS3dmKMLjG68JQTfY8bRjsk83CEsUH0jyb4tT_H6ThqhoCijEQAvD_BwE#rec584676692)
 * [FOOD ZEOLITE ](https://prom.ua/p1896799859-tseolit-aktivator-vody.html?&primelead=Mi40)
 * [Zeolite (fraction 3-5mm)](https://prom.ua/p1896799859-tseolit-aktivator-vody.html?&primelead=Mi40)
@@ -198,9 +199,9 @@ In general, stock up on everything you regularly buy in stores, pharmacies, and 
 Protocol in case you are not in the 30-kilometer zone, otherwise there will most likely be an evacuation. Many items are also suitable for chemical/biological contamination.
 
 1. As soon as they found out that there is an increased level of radiation in the city, warn relatives and friends, everyone immediately goes home.
-1.1 When outside, immediately protect your respiratory organs with a scarf.
-1.2 When you get home, measure the radiation of your outer clothing and shoes; if it is above 0.30 µSv/h, place the clothing in a sealed trash bag.
-1.3 take a shower.
+<br />1.1 When outside, immediately protect your respiratory organs with a scarf.
+<br />1.2 When you get home, measure the radiation of your outer clothing and shoes; if it is above 0.30 µSv/h, place the clothing in a sealed trash bag.
+<br />1.3 take a shower.
 
 2. Turn off the room ventilation system.
 3. Listen to the radio: should you take iodine? The closer to the epicenter, the faster you need to take it. It is better to take the tablet with clean food.
