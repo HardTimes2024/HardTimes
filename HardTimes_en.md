@@ -73,8 +73,8 @@ You can also purchase non-perishable goods that may be useful in Hard Times for 
 Give up expensive purchases, enter economical mode. Buy only what will help you overcome Hard Times.
 
 We expect mass strikes and riots, people losing their jobs. Strikes will be brutally [suppressed](https://www.military.com/military-life/6-times-military-was-used-suppress-civilian-uprisings-us.html) by the army and police.
-
 <br />
+
 ## Pollution
 
 We are sure that many regions of the Earth will face environmental pollution. From London and Vancouver to Beijing.
