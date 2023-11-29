@@ -48,6 +48,7 @@ We emphasize that there will be no crisis, but an economic catastrophe.
 The easiest scenario is the 2008 crisis multiplied by three. But we are sure that most likely there will be an analogue of [the Great Depression](https://en.wikipedia.org/wiki/Great_Depression) in the USA in the 1930s, only on a global scale.
 
 **An economic catastrophe can be divided into several points:**
+
 * Sharp collapse of stock exchanges. Financiers will start going out the window and bankers will shout that this is the end of the world.
 * Mass bankruptcy of companies. Both small businesses and large factories and corporations will go bankrupt.
 * Total bankruptcy of banks.
@@ -297,7 +298,7 @@ We provided a complete list of vitamins in the section “Pollution -> Vitamins, I
 
 #### Short list
 
-* [spirulina](https://edochoc.com.ua/p1221997541-spirulina-tabletki.html?source=merchant_center&utm_source=google&utm_medium=cpc&utm_campaign=16014328466&utm_network=x&utm_adposition=&utm_device=c&utm_matchtype=&utm_target=&utm_group=&utm_term=&gad=1&gclid=CjwKCAjwkNOpBhBEEiwAb3MvvQg_P_X5RHMyJ8xyJiTFSieLy8KopNb6ZHOCfSaFqpxHlx8Ls-gIPBoCswkQAvD_BwE) ? [chlerella](https://edochoc.com.ua/p1310262543-hlorella-tabletki.html)
+* [spirulina](https://edochoc.com.ua/p1221997541-spirulina-tabletki.html?source=merchant_center&utm_source=google&utm_medium=cpc&utm_campaign=16014328466&utm_network=x&utm_adposition=&utm_device=c&utm_matchtype=&utm_target=&utm_group=&utm_term=&gad=1&gclid=CjwKCAjwkNOpBhBEEiwAb3MvvQg_P_X5RHMyJ8xyJiTFSieLy8KopNb6ZHOCfSaFqpxHlx8Ls-gIPBoCswkQAvD_BwE) and [chlerella](https://edochoc.com.ua/p1310262543-hlorella-tabletki.html)
 * [SO THE FLOUR WILL BE STORED FOR 10 YEARS! Long-term storage of flour ](https://www.youtube.com/watch?v=2Zf_1arih9M&pp=ygUk0YXRgNCw0L3QtdC90LjQtSDQvNGD0LrQuCDQtNC-0LvQs9C-)
 * [HOW TO STORE FLOUR FOR A LONG TIME? 100% method, bugs will not appear](https://www.youtube.com/watch?v=M0GLzYs1ifU&pp=ygUk0YXRgNCw0L3QtdC90LjQtSDQvNGD0LrQuCDQtNC-0LvQs9C-)
 * [How to grow MICROGREENS at home?](https://www.youtube.com/watch?v=UU9cD2d2NE4)
