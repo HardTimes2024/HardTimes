@@ -39,6 +39,7 @@ If inner anger, fear, despair or impatience increases, we recommend Taoist exerc
 We rely <ins>only</ins> on ourselves; in Hard Times, governments will be overloaded with maintaining infrastructure and military operations.
 
 Let's focus on preparing for non-standard events.
+<br /><br />
 
 ## Economic disaster
 
@@ -52,6 +53,7 @@ The easiest scenario is the 2008 crisis multiplied by three. But we are sure tha
 * Total bankruptcy of banks.
 * After the acute phase of the crisis, the unemployment rate will begin to rise. At its peak, we estimate an unemployment rate of 35% in Western countries and up to 40% in the Asian region.
 * The modern economy is heavily dependent on the Internet. Therefore, the likelihood of damage to backbone Internet cables is very high. Internet clubs where they will accept food stamps as payment might appear. 
+<br /><br />
 
 #### Preparation:
 
@@ -73,7 +75,7 @@ You can also purchase non-perishable goods that may be useful in Hard Times for 
 Give up expensive purchases, enter economical mode. Buy only what will help you overcome Hard Times.
 
 We expect mass strikes and riots, people losing their jobs. Strikes will be brutally [suppressed](https://www.military.com/military-life/6-times-military-was-used-suppress-civilian-uprisings-us.html) by the army and police.
-<br />
+<br /><br />
 
 ## Pollution
 
@@ -93,6 +95,7 @@ In addition to humidity and temperature, the weather forecast will talk about th
 In case of a radiation release, the main thing is to wait in a shelter/at home for 5-7 days (if the government has not announced an evacuation in your region). After five days, the radiation level drops a hundred times. The main danger is radionuclides (dust) that enter the human body through inhalation or water/food.
 
 Let us consider such scenarios:
+<br /><br />
 
 #### Possible causes of pollution:
 * Biological/chemical terrorist attacks.
@@ -101,6 +104,7 @@ Let us consider such scenarios:
 * Consequences of hostilities.
 * Extensive fires and smoke.
 * [Unusual](https://en.wikipedia.org/wiki/Dust_Bowl) natural disasters.
+<br /><br />
 
 #### Preparation:
 
@@ -144,6 +148,7 @@ If you are not in a 30-kilometer zone, then potassium iodide can be taken once (
 * [Vitamin D3](https://ua.iherb.com/pr/mrm-nutrition-vegan-vitamin-d3-2-500-iu-60-vegan-capsules/50384)
 * [B12](https://ua.iherb.com/pr/now-foods-methyl-b-12-1-000-mcg-100-lozenges/449)
 * [Vitamin C](https://ua.iherb.com/c/vitamin-c)
+<br /><br />
 
 – **Enterosorbents**
 
@@ -162,6 +167,7 @@ The most famous is natural Zeolite. It can be taken as a dietary supplement or u
 * Protect your hair with scarves.
 * When radiation is released into the atmosphere, radiation rains often occur. You must carry a plastic raincoat with you.
 * After returning home, measure the radiation level of your hands, shoe covers and hair.
+<br /><br />
 
 #### Associated potential hazards:
 
@@ -184,6 +190,7 @@ In general, stock up on everything you regularly buy in stores, pharmacies, and 
 – **Additional Information**
 
 * ["Chernobyl" first aid kit](https://www.uatom.org/ru/2019/07/24/chernobylskaya-aptechka.html)
+<br /><br />
 
 #### Our protocol for a radiation accident
 
@@ -207,8 +214,8 @@ Protocol in case you are not in the 30-kilometer zone, otherwise there will most
 12. Wipe products with a damp cloth before unpacking.
 13. Distribute individual respirators that can be signed.
 14. Pray.
+<br /><br />
 
-<br />
 ## Famine
 
 Let us immediately clarify that we expect full-blown famine (even to the point of cannibalism) in Africa. In Europe and North America there is unlikely to be a famine, but there will be <ins>food shortages</ins>. When there is a food shortage, the first thing governments will do is introduce food stamps. It is also possible for food to be confiscated from farmers by the "government".
@@ -231,6 +238,7 @@ When Hard Times come, most countries will begin to ban food exports. Even now, w
 <ins>By stocking up on food, we give up our place in line for rations.</ins>
 
 We don’t know when famine will begin, so we recommend storing long-lasting food items, for at least two years. There are many videos on the Internet on how to store flour for 10 years and cereals for 15 years.
+<br /><br />
 
 #### Possible reasons for product shortages
 
@@ -260,6 +268,7 @@ China has massive soil and water pollution.
 12. Numerous evacuations of people (especially the Indo-Asian region).
 
 13. During martial law, food will be issued using coupons. Chaw Tickets, Supply Packs.
+<br /><br />
 
 #### General recommendations for food preparation
 
@@ -284,6 +293,7 @@ We provided a complete list of vitamins in the section “Pollution -> Vitamins, I
 * [Vitamin B Complex](https://ua.iherb.com/c/vitamin-b-complex) (especially for vegetarians)
 * [Vitamin D](https://ua.iherb.com/c/vitamin-d)
 * [Vitamin C](https://ua.iherb.com/c/vitamin-c)
+<br /><br />
 
 #### Short list
 
@@ -306,8 +316,8 @@ We provided a complete list of vitamins in the section “Pollution -> Vitamins, I
 * [augason farms](https://www.google.com/search?q=augason+farms)
 * [Emergency rations](https://military.pl/en/c/survival-bushcraft-tourism/long-term-food/military-food-rations)
 * [20 products with a long shelf life](https://www.youtube.com/watch?v=KJQ2DhdRAcM). 
+<br /><br />
 
-<br />
 ## Additions
 
 * Make a local backup of all important files, books, movies, music, photos. Because there may be long Internet outages.
@@ -316,8 +326,8 @@ We provided a complete list of vitamins in the section “Pollution -> Vitamins, I
 * There are many videos on the Internet on how to prepare and act in case of emergencies and military events.
 
 Follow global news more than local ones, <ins>read between the lines</ins>.  
+<br /><br />
 
-<br />
 ## Conclusion
 
 There is a theory that: the apocalypse is an individual phenomenon. If a person cannot remember the last time he heard birds singing, then for him the birds have already fallen silent. If he can’t remember when he looked at the stars, then for him the stars have already gone out...
