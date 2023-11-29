@@ -5,16 +5,16 @@ Version 1.0: 2023.11.05
 A warning about upcoming events, for which we should prepare URGENTLY.
 
 We will talk about three topics:
-– Economic disaster
-– Pollution
-– Famine
+* Economic disaster
+* Pollution
+* Famine
 
 This information is taken from intuitive sources and common sense.
 
 **To improve your intuition, we recommend:**
-– lead a healthy lifestyle
-– study spiritual practices: yoga, qigong
-– praise the Gods and <u>not ask for</u> anything from them even in hard times.
+* lead a healthy lifestyle
+* study spiritual practices: yoga, qigong
+* praise the Gods and <ins>not ask for</ins> anything from them even in hard times.
 
 Modern people have too binary thinking: everything will be either fine or a complete apocalypse. Why then prepare? But the truth is in the middle. More advanced type of thinking: probabilistic.
 An ancient saying: hope for the best and prepare for the worst.
@@ -26,35 +26,35 @@ When everyone understands that Hard Times have come, one of the extremes is eith
 We do not know the dates and how long the Hard Times will last.
 Patience and hardening: remember how a small child asks every 5 minutes when we will arrive. Or how many of us were whining when the pandemic would end.
 
-<u>We are sure that the Pandemic, Financial Catastrophe, World War, Pollution and Famine are events of a single chain</u>. And the tougher this chain is, the faster it will end and the recovery period will begin.
+<ins>We are sure that the Pandemic, Financial Catastrophe, World War, Pollution and Famine are events of a single chain</ins>. And the tougher this chain is, the faster it will end and the recovery period will begin.
 
 It is necessary to psychologically tune in to Hard Times and be patient.
 
 The gods do not test us more than we can bear.
 
-We do not discuss who is to blame for Hard Times, <u>the maximum focus is on overcoming difficulties</u>.
+We do not discuss who is to blame for Hard Times, <ins>the maximum focus is on overcoming difficulties</ins>.
 
 If inner anger, fear, despair or impatience increases, we recommend Taoist exercises - [Inner Smile](https://www.youtube.com/watch?v=q2tAXVAP5rA) and [Six Healing Sounds](https://www.youtube.com/watch?v=4_jq5tfOm0w) ([Inner Smile and Healing Sounds](https://www.mantakchia.com/inner-smile-and-healing-sounds/)). 
 
-We rely <u>only</u> on ourselves; in Hard Times, governments will be overloaded with maintaining infrastructure and military operations.
+We rely <ins>only</ins> on ourselves; in Hard Times, governments will be overloaded with maintaining infrastructure and military operations.
 
 Let's focus on preparing for non-standard events.
 
 <br>
-##Economic disaster
+## Economic disaster
 
 We emphasize that there will be no crisis, but an economic catastrophe.
 
 The easiest scenario is the 2008 crisis multiplied by three. But we are sure that most likely there will be an analogue of [the Great Depression](https://en.wikipedia.org/wiki/Great_Depression) in the USA in the 1930s, only on a global scale.
 
 **An economic catastrophe can be divided into several points:**
-– Sharp collapse of stock exchanges. Financiers will start going out the window and bankers will shout that this is the end of the world.
-– Mass bankruptcy of companies. Both small businesses and large factories and corporations will go bankrupt.
-– Total bankruptcy of banks.
-– After the acute phase of the crisis, the unemployment rate will begin to rise. At its peak, we estimate an unemployment rate of 35% in Western countries and up to 40% in the Asian region.
-– The modern economy is heavily dependent on the Internet. Therefore, the likelihood of damage to backbone Internet cables is very high. Internet clubs where they will accept food stamps as payment might appear. 
+* Sharp collapse of stock exchanges. Financiers will start going out the window and bankers will shout that this is the end of the world.
+* Mass bankruptcy of companies. Both small businesses and large factories and corporations will go bankrupt.
+* Total bankruptcy of banks.
+* After the acute phase of the crisis, the unemployment rate will begin to rise. At its peak, we estimate an unemployment rate of 35% in Western countries and up to 40% in the Asian region.
+* The modern economy is heavily dependent on the Internet. Therefore, the likelihood of damage to backbone Internet cables is very high. Internet clubs where they will accept food stamps as payment might appear. 
 
-####Preparation:
+#### Preparation:
 
 – [Bank Run](https://en.wikipedia.org/wiki/Bank_run)
 You should urgently withdraw cash from bank accounts. Because not only banks will go bankrupt, but also deposit guarantee funds (EDIS, FDIC: Federal Deposit Insurance Corporation). For example, the American Federal Deposit Insurance Corporation has the right to return funds for 20 years!
@@ -76,7 +76,7 @@ Give up expensive purchases, enter economical mode. Buy only what will help you 
 We expect mass strikes and riots, people losing their jobs. Strikes will be brutally [suppressed](https://www.military.com/military-life/6-times-military-was-used-suppress-civilian-uprisings-us.html) by the army and police.
 
 <br>
-##Pollution
+## Pollution
 
 We are sure that many regions of the Earth will face environmental pollution. From London and Vancouver to Beijing.
 
@@ -95,22 +95,22 @@ In case of a radiation release, the main thing is to wait in a shelter/at home f
 
 Let us consider such scenarios:
 
-####Possible causes of pollution:
-– Biological/chemical terrorist attacks.
-– [Dirty bomb](https://en.wikipedia.org/wiki/Radiological_warfare), [Cobalt bomb](https://en.wikipedia.org/wiki/Cobalt_bomb), [Salted bomb](https://en.wikipedia.org/wiki/Salted_bomb).
-– Disasters/accidents/terrorist attacks at factories, [railways](https://edition.cnn.com/2023/02/15/us/toxic-chemicals-train-derailments-explainer/index.html), nuclear power plants.
-– Consequences of hostilities.
-– Extensive fires and smoke.
-– [Unusual](https://en.wikipedia.org/wiki/Dust_Bowl) natural disasters.
+#### Possible causes of pollution:
+* Biological/chemical terrorist attacks.
+* [Dirty bomb](https://en.wikipedia.org/wiki/Radiological_warfare), [Cobalt bomb](https://en.wikipedia.org/wiki/Cobalt_bomb), [Salted bomb](https://en.wikipedia.org/wiki/Salted_bomb).
+* Disasters/accidents/terrorist attacks at factories, [railways](https://edition.cnn.com/2023/02/15/us/toxic-chemicals-train-derailments-explainer/index.html), nuclear power plants.
+* Consequences of hostilities.
+* Extensive fires and smoke.
+* [Unusual](https://en.wikipedia.org/wiki/Dust_Bowl) natural disasters.
 
-####Preparation:
+#### Preparation:
 
 – **Informational resources**:
 
-– [windy.com](http://windy.com) you can track in which direction the air masses are moving.
-– [radmon.org](https://radmon.org) is not government radiation monitoring.
-– [iaea.org](https://www.iaea.org) International Atomic Energy Agency.
-– [nuclearsecrecy.com/nukemap](https://nuclearsecrecy.com/nukemap/) the site visualizes the destruction and contamination of the area for different types of warheads directly on a map. The visualization clearly shows that nuclear bombs are not that scary and everything can be handled.
+* [windy.com](http://windy.com) you can track in which direction the air masses are moving.
+* [radmon.org](https://radmon.org) is not government radiation monitoring.
+* [iaea.org](https://www.iaea.org) International Atomic Energy Agency.
+* [nuclearsecrecy.com/nukemap](https://nuclearsecrecy.com/nukemap/) the site visualizes the destruction and contamination of the area for different types of warheads directly on a map. The visualization clearly shows that nuclear bombs are not that scary and everything can be handled.
 
 – Prepare an "**emergency backpack**" for emergency evacuation.
 
@@ -124,11 +124,13 @@ Let us consider such scenarios:
 Up to 0.30 µSv/h (microsieverts per hour) is normal. There are regions where granite slabs come to the surface, there is natural background radiation up to 0.80 µSv/h and people live there for many generations. But if you record a level higher than 0.30 µSv/h, you need to find out the reason. Use the dosimeter in a zip bag to prevent radioactive dust from getting on the body.
 
 – **Water purification**
+
 Water filters can be stationary with an ion exchange membrane. Also jugs with cartridges. There are various filter [comparisons](https://www.youtube.com/watch?v=HeRGnHuYol8) on the Internet.
 We recommend stocking up on water filters for at least 2 years.
 [Zeolite](https://en.wikipedia.org/wiki/Zeolite) enterosorbent filters radionuclides well.
 
 – **Vitamins, Iodine and dietary supplements**
+
 For any contamination, it is recommended to take vitamins since the body is subject to stress. In case of radiation contamination, it is recommended to take potassium iodide. But potassium iodide should be taken with caution, as it has many side effects and allergies. There are dietary supplements with a high iodine content.
 
 If you are not in a 30-kilometer zone, then potassium iodide can be taken once (100 mg for an adult), and in subsequent days take dietary supplements in the form of pressed brown algae, spirulina and other iodine-containing products.
@@ -141,18 +143,19 @@ If you are not in a 30-kilometer zone, then potassium iodide can be taken once (
 * [Multivitamin formula, Two-Per-Day Multivitamin](https://biotus.ua/mul-tivitaminnaja-formula-two-per-day-life-extension-120-kapsul.html)
 * [Vegetatian DHA, ?????-3, Naturally Sourced Omega-3, Solgar](https://biotus.ua/dgk-vegetarianskaja-omega-3-naturally-sourced-omega-3-solgar-200-mg-50-gelevyh-kapsul.html)
 * [Vitamin D3](https://ua.iherb.com/pr/mrm-nutrition-vegan-vitamin-d3-2-500-iu-60-vegan-capsules/50384)
-* [?12](https://ua.iherb.com/pr/now-foods-methyl-b-12-1-000-mcg-100-lozenges/449)
+* [B12](https://ua.iherb.com/pr/now-foods-methyl-b-12-1-000-mcg-100-lozenges/449)
 * [Vitamin C](https://ua.iherb.com/c/vitamin-c)
 
 – **Enterosorbents**
+
 [Enterosorbents](https://www.uatom.org/ru/2019/07/24/chernobylskaya-aptechka.html) help bind and remove heavy metals and radionuclides.
 The most famous is natural Zeolite. It can be taken as a dietary supplement or used as a water filter.
 
 * [Macrosorb, natural sorbent ](https://biotus.ua/ua/makrosorb-prirodnyj-sorbent-choice-70-g.html?gclid=CjwKCAjw4P6oBhBsEiwAKYVkq9JdnEx8itjiB1_RN_u0J7cRRKmurWv_TKZbC_-shmVX2t74y3TJRBoCahMQAvD_BwE#yt_tab_faqform)
 * [Natural Zeolite](https://soda.in.ua/natural_zeolite?utm_source=google&utm_medium=cpc&utm_campaingid=11509330298&utm_keyword=%D1%86%D0%B5%D0%BE%D0%BB%D0%B8%D1%82%20%D0%B4%D0%BB%D1%8F%20%D1%87%D0%B5%D0%BB%D0%BE%D0%B2%D0%B5%D0%BA%D0%B0%20%D0%BA%D1%83%D0%BF%D0%B8%D1%82%D1%8C%20%D1%83%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0&utm_term=111877186506&gclid=CjwKCAjw4P6oBhBsEiwAKYVkq7KYVtgGf5yS3dmKMLjG68JQTfY8bRjsk83CEsUH0jyb4tT_H6ThqhoCijEQAvD_BwE#rec584676692)
 * [FOOD ZEOLITE ](https://prom.ua/p1896799859-tseolit-aktivator-vody.html?&primelead=Mi40)
-* [Zeolite (fraction 3-5??)](https://prom.ua/p1896799859-tseolit-aktivator-vody.html?&primelead=Mi40)
-* [Sodium alginate, 100g, ?? "Benosen"](https://rozetka.com.ua/318649771/p318649771/?gclid=CjwKCAjw4P6oBhBsEiwAKYVkqzFApimhk3VoWbLAlHuACfvNADkNMjLBF_IF07dC_5AgA0mo8k7pahoCpW0QAvD_BwE)
+* [Zeolite (fraction 3-5mm)](https://prom.ua/p1896799859-tseolit-aktivator-vody.html?&primelead=Mi40)
+* [Sodium alginate, 100g, "Benosen"](https://rozetka.com.ua/318649771/p318649771/?gclid=CjwKCAjw4P6oBhBsEiwAKYVkqzFApimhk3VoWbLAlHuACfvNADkNMjLBF_IF07dC_5AgA0mo8k7pahoCpW0QAvD_BwE)
 
 – **Protective clothing when going outside:**
 
@@ -161,7 +164,7 @@ The most famous is natural Zeolite. It can be taken as a dietary supplement or u
 * When radiation is released into the atmosphere, radiation rains often occur. You must carry a plastic raincoat with you.
 * After returning home, measure the radiation level of your hands, shoe covers and hair.
 
-####Associated potential hazards:
+#### Associated potential hazards:
 
 * the government may delay announcing the accident.
 * forced mobilization to eliminate consequences without means of protection.
@@ -171,6 +174,7 @@ The most famous is natural Zeolite. It can be taken as a dietary supplement or u
 * seizure of equipment and food products by the military.
 
 – **Inventories**
+
 In general, stock up on everything you regularly buy in stores, pharmacies, and the Internet. Temporary shortages are possible for any product.
 
 * Clothes and shoes
@@ -182,7 +186,7 @@ In general, stock up on everything you regularly buy in stores, pharmacies, and 
 
 * ["Chernobyl" first aid kit](https://www.uatom.org/ru/2019/07/24/chernobylskaya-aptechka.html)
 
-####Our protocol for a radiation accident
+#### Our protocol for a radiation accident
 
 Protocol in case you are not in the 30-kilometer zone, otherwise there will most likely be an evacuation. Many items are also suitable for chemical/biological contamination.
 
@@ -206,9 +210,9 @@ Protocol in case you are not in the 30-kilometer zone, otherwise there will most
 14. Pray.
 
 <br>
-##Famine
+## Famine
 
-Let us immediately clarify that we expect full-blown famine (even to the point of cannibalism) in Africa. In Europe and North America there is unlikely to be a famine, but there will be <u>food shortages</u>. When there is a food shortage, the first thing governments will do is introduce food stamps. It is also possible for food to be confiscated from farmers by the "government".
+Let us immediately clarify that we expect full-blown famine (even to the point of cannibalism) in Africa. In Europe and North America there is unlikely to be a famine, but there will be <ins>food shortages</ins>. When there is a food shortage, the first thing governments will do is introduce food stamps. It is also possible for food to be confiscated from farmers by the "government".
 
 Residents of the post-Soviet countries remember how in the 1990s they introduced food stamps, washing powder, etc. We expect the temporary introduction of food stamps in many countries around the world.
 
@@ -216,7 +220,7 @@ Western countries may have a more equitable distribution of Supply Packs. But in
 
 There is a high risk of famine in Taiwan in the event of a blockade of the island.
 
-Food stamps will <u>temporarily</u> become a currency, and black markets will appear for the sale/exchange of coupons and goods. Let us remind you that trade and exchange of alcohol/cigarettes may not be conscientious.
+Food stamps will <ins>temporarily</ins> become a currency, and black markets will appear for the sale/exchange of coupons and goods. Let us remind you that trade and exchange of alcohol/cigarettes may not be conscientious.
 
 [Bread Line](https://www.google.com/search?q=bread+lines+great+depression) - In the USA, during the Great Depression, there was a shortage of food in big cities. There were long lines at charities for a bowl of soup.
 
@@ -225,11 +229,11 @@ In Ukraine, in the Donetsk region, there was a remarkable story. The young coupl
 One of the markers of the approaching famine was that in August 2023, India introduced [a ban on rice exports](https://edition.cnn.com/2023/08/28/business-india/india-rice-ban-export-farmers-loss-intl-hnk-dst/index.html).
 When Hard Times come, most countries will begin to ban food exports. Even now, when walking around your supermarket, pay attention to what percentage of products are imported into your country.
 
-<u>By stocking up on food, we give up our place in line for rations.</u>
+<ins>By stocking up on food, we give up our place in line for rations.</ins>
 
 We don’t know when famine will begin, so we recommend storing long-lasting food items, for at least two years. There are many videos on the Internet on how to store flour for 10 years and cereals for 15 years.
 
-####Possible reasons for product shortages
+#### Possible reasons for product shortages
 
 1. Military operations on the main sea trade routes.
 
@@ -258,7 +262,7 @@ China has massive soil and water pollution.
 
 13. During martial law, food will be issued using coupons. Chaw Tickets, Supply Packs.
 
-####General recommendations for food preparation
+#### General recommendations for food preparation
 
 – For long-term storage of cereals, there are vacuum packers [CASO FastVac 500](https://www.youtube.com/watch?v=NSxQ__iinOk). Vacuum packers require special corrugated [CASO 27,5x600cm](https://coyot.ua/rulon-dlya-vakuumatora-caso-275x600cm-2-sht/).
 You can also throw a few bay leaves and salt in a bag into a vacuum bag.
@@ -282,40 +286,40 @@ We provided a complete list of vitamins in the section “Pollution -> Vitamins, I
 * [Vitamin D](https://ua.iherb.com/c/vitamin-d)
 * [Vitamin C](https://ua.iherb.com/c/vitamin-c)
 
-####Short list
+#### Short list
 
-– [spirulina](https://edochoc.com.ua/p1221997541-spirulina-tabletki.html?source=merchant_center&utm_source=google&utm_medium=cpc&utm_campaign=16014328466&utm_network=x&utm_adposition=&utm_device=c&utm_matchtype=&utm_target=&utm_group=&utm_term=&gad=1&gclid=CjwKCAjwkNOpBhBEEiwAb3MvvQg_P_X5RHMyJ8xyJiTFSieLy8KopNb6ZHOCfSaFqpxHlx8Ls-gIPBoCswkQAvD_BwE) ? [chlerella](https://edochoc.com.ua/p1310262543-hlorella-tabletki.html)
-– [SO THE FLOUR WILL BE STORED FOR 10 YEARS! Long-term storage of flour ](https://www.youtube.com/watch?v=2Zf_1arih9M&pp=ygUk0YXRgNCw0L3QtdC90LjQtSDQvNGD0LrQuCDQtNC-0LvQs9C-)
-– [HOW TO STORE FLOUR FOR A LONG TIME? 100% method, bugs will not appear](https://www.youtube.com/watch?v=M0GLzYs1ifU&pp=ygUk0YXRgNCw0L3QtdC90LjQtSDQvNGD0LrQuCDQtNC-0LvQs9C-)
-– [How to grow MICROGREENS at home?](https://www.youtube.com/watch?v=UU9cD2d2NE4)
-– [Wheat crackers](https://novus.online/product/suhari-psenicni-vag?storeId=1031&gad=1&gclid=CjwKCAjw1t2pBhAFEiwA_-A-NMGnE-ewovWxJ392VUqGZzUe4xh5kwXKw-54RiIo9vOU4TKoZMIxfBoCwcwQAvD_BwE) 
-– [Galette cookies](https://lorchen.company/pechene/galetnoe-pechene)
-– [chocolate bars](https://agro-market.net/ua/catalog/item/batonchik_snickers_50_g_up_40_sht/?gad_source=1&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0CzoPdTqZlp5Df-Zz8Y1Pr-WgQF2wEWSV9_gge3SESXgjWitWgSQp-kUaAh-rEALw_wcB)
-– [milk powder, milk powder 26%](https://pekar-konditer.com.ua/syre-i-ingredienty/molochnye-i-yaichnye-suhie-produkty/suhoe-moloko)
-– [Knorr Concentrated mushroom broth](https://metro.zakaz.ua/ru/products/sup-knor-840g--08712100477256/)
-– [Street Soup instant spinach cream soup 250g](https://streetsoup.com.ua/#cat_02)   
-– [Grains for germination](https://sz.lviv.ua/ru/bakalija/zlaky/)  
-– Seasonings: paprika, parsley, turmeric, bay leaf are plenty for preservation.
-– Lentils, chickpeas, peas
-– Superfoods: Amaranth, Quinoa (storage under vacuum or [folk remedies](https://www.youtube.com/watch?v=nIeNgvOdxGg))
-– Cereals: buckwheat, oatmeal, pshono, pearl barley, rice (storage under vacuum or [folk remedies](https://www.youtube.com/watch?v=nIeNgvOdxGg))
-– [sugar](https://www.ukr-produkt.com/product-page/%D1%86%D1%83%D0%BA%D0%BE%D1%80-%D0%B1%D1%83%D1%80%D1%8F%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9), a lot of salt
-– [augason farms](https://www.google.com/search?q=augason+farms)
-– [Emergency rations](https://military.pl/en/c/survival-bushcraft-tourism/long-term-food/military-food-rations)
-– [20 products with a long shelf life](https://www.youtube.com/watch?v=KJQ2DhdRAcM). 
-
-<br>
-##Additions
-
-– Make a local backup of all important files, books, movies, music, photos. Because there may be long Internet outages.
-– Purchase a high-quality radio (Tecsun PL-660) or radio station.
-– Means of self-defense: [gas spray](https://www.youtube.com/watch?v=VwxsxsGzEXo).
-– There are many videos on the Internet on how to prepare and act in case of emergencies and military events.
-
-Follow global news more than local ones, <u>read between the lines</u>.  
+* [spirulina](https://edochoc.com.ua/p1221997541-spirulina-tabletki.html?source=merchant_center&utm_source=google&utm_medium=cpc&utm_campaign=16014328466&utm_network=x&utm_adposition=&utm_device=c&utm_matchtype=&utm_target=&utm_group=&utm_term=&gad=1&gclid=CjwKCAjwkNOpBhBEEiwAb3MvvQg_P_X5RHMyJ8xyJiTFSieLy8KopNb6ZHOCfSaFqpxHlx8Ls-gIPBoCswkQAvD_BwE) ? [chlerella](https://edochoc.com.ua/p1310262543-hlorella-tabletki.html)
+* [SO THE FLOUR WILL BE STORED FOR 10 YEARS! Long-term storage of flour ](https://www.youtube.com/watch?v=2Zf_1arih9M&pp=ygUk0YXRgNCw0L3QtdC90LjQtSDQvNGD0LrQuCDQtNC-0LvQs9C-)
+* [HOW TO STORE FLOUR FOR A LONG TIME? 100% method, bugs will not appear](https://www.youtube.com/watch?v=M0GLzYs1ifU&pp=ygUk0YXRgNCw0L3QtdC90LjQtSDQvNGD0LrQuCDQtNC-0LvQs9C-)
+* [How to grow MICROGREENS at home?](https://www.youtube.com/watch?v=UU9cD2d2NE4)
+* [Wheat crackers](https://novus.online/product/suhari-psenicni-vag?storeId=1031&gad=1&gclid=CjwKCAjw1t2pBhAFEiwA_-A-NMGnE-ewovWxJ392VUqGZzUe4xh5kwXKw-54RiIo9vOU4TKoZMIxfBoCwcwQAvD_BwE) 
+* [Galette cookies](https://lorchen.company/pechene/galetnoe-pechene)
+* [chocolate bars](https://agro-market.net/ua/catalog/item/batonchik_snickers_50_g_up_40_sht/?gad_source=1&gclid=Cj0KCQjwqP2pBhDMARIsAJQ0CzoPdTqZlp5Df-Zz8Y1Pr-WgQF2wEWSV9_gge3SESXgjWitWgSQp-kUaAh-rEALw_wcB)
+* [milk powder, milk powder 26%](https://pekar-konditer.com.ua/syre-i-ingredienty/molochnye-i-yaichnye-suhie-produkty/suhoe-moloko)
+* [Knorr Concentrated mushroom broth](https://metro.zakaz.ua/ru/products/sup-knor-840g--08712100477256/)
+* [Street Soup instant spinach cream soup 250g](https://streetsoup.com.ua/#cat_02)   
+* [Grains for germination](https://sz.lviv.ua/ru/bakalija/zlaky/)  
+* Seasonings: paprika, parsley, turmeric, bay leaf are plenty for preservation.
+* Lentils, chickpeas, peas
+* Superfoods: Amaranth, Quinoa (storage under vacuum or [folk remedies](https://www.youtube.com/watch?v=nIeNgvOdxGg))
+* Cereals: buckwheat, oatmeal, pshono, pearl barley, rice (storage under vacuum or [folk remedies](https://www.youtube.com/watch?v=nIeNgvOdxGg))
+* [sugar](https://www.ukr-produkt.com/product-page/%D1%86%D1%83%D0%BA%D0%BE%D1%80-%D0%B1%D1%83%D1%80%D1%8F%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9), a lot of salt
+* [augason farms](https://www.google.com/search?q=augason+farms)
+* [Emergency rations](https://military.pl/en/c/survival-bushcraft-tourism/long-term-food/military-food-rations)
+* [20 products with a long shelf life](https://www.youtube.com/watch?v=KJQ2DhdRAcM). 
 
 <br>
-##Conclusion
+## Additions
+
+* Make a local backup of all important files, books, movies, music, photos. Because there may be long Internet outages.
+* Purchase a high-quality radio (Tecsun PL-660) or radio station.
+* Means of self-defense: [gas spray](https://www.youtube.com/watch?v=VwxsxsGzEXo).
+* There are many videos on the Internet on how to prepare and act in case of emergencies and military events.
+
+Follow global news more than local ones, <ins>read between the lines</ins>.  
+
+<br>
+## Conclusion
 
 There is a theory that: the apocalypse is an individual phenomenon. If a person cannot remember the last time he heard birds singing, then for him the birds have already fallen silent. If he can’t remember when he looked at the stars, then for him the stars have already gone out...
 
