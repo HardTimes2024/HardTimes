@@ -21,7 +21,7 @@ An ancient saying: hope for the best and prepare for the worst.
 
 This message will not prove that hard times are approaching. Use your intuition or look for analogies from history. The message is made to make it easier to prepare for upcoming events at home. Preparation products are provided as examples.
 
-When everyone understands that Hard Times have come, one of the extremes is either despair or panic. As in the Cuban Missile Crisis of 1962, students said: ìWhy should we study if a nuclear war is coming soon?î. As the news dramatizes everything and store shelves get empty, monitor your emotions, hard times are always temporary.
+When everyone understands that Hard Times have come, one of the extremes is either despair or panic. As in the Cuban Missile Crisis of 1962, students said: ‚ÄúWhy should we study if a nuclear war is coming soon?‚Äù. As the news dramatizes everything and store shelves get empty, monitor your emotions, hard times are always temporary.
 
 We do not know the dates and how long the Hard Times will last.
 Patience and hardening: remember how a small child asks every 5 minutes when we will arrive. Or how many of us were whining when the pandemic would end.
@@ -58,11 +58,11 @@ The easiest scenario is the 2008 crisis multiplied by three. But we are sure tha
 
 #### Preparation:
 
-ñ [Bank Run](https://en.wikipedia.org/wiki/Bank_run)
+‚Äì [Bank Run](https://en.wikipedia.org/wiki/Bank_run)
 
 You should urgently withdraw cash from bank accounts. Because not only banks will go bankrupt, but also deposit guarantee funds (EDIS, FDIC: Federal Deposit Insurance Corporation). For example, the American Federal Deposit Insurance Corporation has the right to return funds for 20 years!
 
-ñ **Diversification**
+‚Äì **Diversification**
 
 Diversification - don't put all your eggs in one basket.
 
@@ -72,7 +72,7 @@ If you have more money, you can buy gold bullions, but store it not in safe depo
 
 You can also purchase non-perishable goods that may be useful in Hard Times for sale/exchange.
 
-ñ **Cost minimization**
+‚Äì **Cost minimization**
 
 Give up expensive purchases, enter economical mode. Buy only what will help you overcome Hard Times.
 
@@ -83,7 +83,7 @@ We expect mass strikes and riots, people losing their jobs. Strikes will be brut
 
 We are sure that many regions of the Earth will face environmental pollution. From London and Vancouver to Beijing.
 
-The type of pollution will likely vary greatly by region. For example, Eastern Europe is exposed to radiation pollution due to a disaster/terrorist attack at a nuclear power plant. It is important to consider that an ìincidentî can occur not only at Zaporizhzhya NPP.
+The type of pollution will likely vary greatly by region. For example, Eastern Europe is exposed to radiation pollution due to a disaster/terrorist attack at a nuclear power plant. It is important to consider that an ‚Äúincident‚Äù can occur not only at Zaporizhzhya NPP.
 
 Western Europe has a higher chance of chemical/biological terrorist attacks.
 
@@ -110,31 +110,31 @@ Let us consider such scenarios:
 
 #### Preparation:
 
-ñ **Informational resources**:
+‚Äì **Informational resources**:
 
 * [windy.com](http://windy.com) you can track in which direction the air masses are moving.
 * [radmon.org](https://radmon.org) is not government radiation monitoring.
 * [iaea.org](https://www.iaea.org) International Atomic Energy Agency.
 * [nuclearsecrecy.com/nukemap](https://nuclearsecrecy.com/nukemap/) the site visualizes the destruction and contamination of the area for different types of warheads directly on a map. The visualization clearly shows that nuclear bombs are not that scary and everything can be handled.
 
-ñ Prepare an "**emergency backpack**" for emergency evacuation.
+‚Äì Prepare an "**emergency backpack**" for emergency evacuation.
 
-ñ **Gas masks and respirators**. The respirator must have protection against aerosols FFP3 and an exhalation valve:
+‚Äì **Gas masks and respirators**. The respirator must have protection against aerosols FFP3 and an exhalation valve:
 * [3M](https://www.3m.com/3M/en_US/p/c/ppe/respiratory-protection/disposable/) paper/cloth respirator can be worn for a long time if cleaned.
 * [3M 7500](https://www.3m.com/3M/en_US/p/dc/v000057592/) + HEPA filters [3M 6035](https://www.3m.com.ua/3M/uk_UA/p/d/v000077057/)
 
-ñ **Emergency supplies of water and easy/instant food** for at least two weeks, wrapped in plastic.
+‚Äì **Emergency supplies of water and easy/instant food** for at least two weeks, wrapped in plastic.
 
-ñ At least one **radiation meter** per family ([GQ GMC-300S](https://www.gqelectronicsllc.com/comersus/store/comersus_viewItem.asp?idProduct=5786)).
-Up to 0.30 µSv/h (microsieverts per hour) is normal. There are regions where granite slabs come to the surface, there is natural background radiation up to 0.80 µSv/h and people live there for many generations. But if you record a level higher than 0.30 µSv/h, you need to find out the reason. Use the dosimeter in a zip bag to prevent radioactive dust from getting on the body.
+‚Äì At least one **radiation meter** per family ([GQ GMC-300S](https://www.gqelectronicsllc.com/comersus/store/comersus_viewItem.asp?idProduct=5786)).
+Up to 0.30 ¬µSv/h (microsieverts per hour) is normal. There are regions where granite slabs come to the surface, there is natural background radiation up to 0.80 ¬µSv/h and people live there for many generations. But if you record a level higher than 0.30 ¬µSv/h, you need to find out the reason. Use the dosimeter in a zip bag to prevent radioactive dust from getting on the body.
 
-ñ **Water purification**
+‚Äì **Water purification**
 
 Water filters can be stationary with an ion exchange membrane. Also jugs with cartridges. There are various filter [comparisons](https://www.youtube.com/watch?v=HeRGnHuYol8) on the Internet.
 We recommend stocking up on water filters for at least 2 years.
 [Zeolite](https://en.wikipedia.org/wiki/Zeolite) enterosorbent filters radionuclides well.
 
-ñ **Vitamins, Iodine and dietary supplements**
+‚Äì **Vitamins, Iodine and dietary supplements**
 
 For any contamination, it is recommended to take vitamins since the body is subject to stress. In case of radiation contamination, it is recommended to take potassium iodide. But potassium iodide should be taken with caution, as it has many side effects and allergies. There are dietary supplements with a high iodine content.
 
@@ -152,7 +152,7 @@ If you are not in a 30-kilometer zone, then potassium iodide can be taken once (
 * [Vitamin C](https://ua.iherb.com/c/vitamin-c)
 <br /><br />
 
-ñ **Enterosorbents**
+‚Äì **Enterosorbents**
 
 [Enterosorbents](https://www.uatom.org/ru/2019/07/24/chernobylskaya-aptechka.html) help bind and remove heavy metals and radionuclides.
 The most famous is natural Zeolite. It can be taken as a dietary supplement or used as a water filter.
@@ -163,7 +163,7 @@ The most famous is natural Zeolite. It can be taken as a dietary supplement or u
 * [Zeolite (fraction 3-5mm)](https://prom.ua/p1896799859-tseolit-aktivator-vody.html?&primelead=Mi40)
 * [Sodium alginate, 100g, "Benosen"](https://rozetka.com.ua/318649771/p318649771/?gclid=CjwKCAjw4P6oBhBsEiwAKYVkqzFApimhk3VoWbLAlHuACfvNADkNMjLBF_IF07dC_5AgA0mo8k7pahoCpW0QAvD_BwE)
 
-ñ **Protective clothing when going outside:**
+‚Äì **Protective clothing when going outside:**
 
 * In case of radiation contamination, it is necessary to protect your feet from dust. [Disposable shoe covers](https://rozetka.com.ua/bahili/c4644376/?gad_source=1&gclid=Cj0KCQjw-pyqBhDmARIsAKd9XINU-jMHteHIYT5SEUTdx38zFiwZRmvGG7miPPQs9pYnfgCkUZEhNekaAgpbEALw_wcB), but better - reusable knee-high shoe covers [1](https://mishutki.com.ua/p1686118663-bahily-vysokie-sadovye.html?source=merchant_center&gad_source=1&gclid=Cj0KCQjw-pyqBhDmARIsAKd9XIPvLRTKGEC8vjx_aRgCE1WT6C9LirDoiV7_pQW8WFdzQGq_nBdComgaAlsbEALw_wcB), [2](https://kyivziz.com.ua/ru/specodezhda/kombinezony-kratkosrochnogo-ispolzovaniya/3m-450/?gclid=Cj0KCQjw-pyqBhDmARIsAKd9XINnhMnkMyR4x-_ZDkxVXCuIJ4odce7eIabh11s6e4DPfjNseBrKJYUaAs-NEALw_wcB&utm_source=google&utm_medium=cpc&utm_campaign=shopping_vdalo&utm_term=&utm_content=) or [PVC shoe covers for shoes](https://coolnice.com.ua/vitrina/chehlyi-bahilyi-pvh-dlya-obuvi-ot-dozhdya-coolnice-belyie-vyisokie/?gad_source=1&gclid=Cj0KCQjw-pyqBhDmARIsAKd9XIPTRUFOOQrZVvoh32lZMdoAWAChQ5bAXnIWz4nq0ELNicTYwbeXeLYaAkk5EALw_wcB). Reusable shoe covers can be left outside the door.
 * Protect your hair with scarves.
@@ -180,7 +180,7 @@ The most famous is natural Zeolite. It can be taken as a dietary supplement or u
 * increased crime/looting rates and increased penalties for looting.
 * seizure of equipment and food products by the military.
 
-ñ **Inventories**
+‚Äì **Inventories**
 
 In general, stock up on everything you regularly buy in stores, pharmacies, and the Internet. Temporary shortages are possible for any product.
 
@@ -189,7 +189,7 @@ In general, stock up on everything you regularly buy in stores, pharmacies, and 
 * garbage bags, paper towels, wet wipes (lots of them), tooth powder.
 * Medicines, make extra glasses for the visually impaired.
 
-ñ **Additional Information**
+‚Äì **Additional Information**
 
 * ["Chernobyl" first aid kit](https://www.uatom.org/ru/2019/07/24/chernobylskaya-aptechka.html)
 <br /><br />
@@ -200,8 +200,9 @@ Protocol in case you are not in the 30-kilometer zone, otherwise there will most
 
 1. As soon as they found out that there is an increased level of radiation in the city, warn relatives and friends, everyone immediately goes home.
 <br />1.1 When outside, immediately protect your respiratory organs with a scarf.
-<br />1.2 When you get home, measure the radiation of your outer clothing and shoes; if it is above 0.30 µSv/h, place the clothing in a sealed trash bag.
-<br />1.3 take a shower.
+<br />1.2 When you get home, measure the radiation of your outer clothing and shoes; if it is above 0.30 ¬µSv/h, place the clothing in a sealed trash bag.
+<br />
+1.3 take a shower.
 
 2. Turn off the room ventilation system.
 3. Listen to the radio: should you take iodine? The closer to the epicenter, the faster you need to take it. It is better to take the tablet with clean food.
@@ -239,7 +240,7 @@ When Hard Times come, most countries will begin to ban food exports. Even now, w
 
 <ins>By stocking up on food, we give up our place in line for rations.</ins>
 
-We donít know when famine will begin, so we recommend storing long-lasting food items, for at least two years. There are many videos on the Internet on how to store flour for 10 years and cereals for 15 years.
+We don‚Äôt know when famine will begin, so we recommend storing long-lasting food items, for at least two years. There are many videos on the Internet on how to store flour for 10 years and cereals for 15 years.
 <br /><br />
 
 #### Possible reasons for product shortages
@@ -274,23 +275,25 @@ China has massive soil and water pollution.
 
 #### General recommendations for food preparation
 
-ñ For long-term storage of cereals, there are vacuum packers [CASO FastVac 500](https://www.youtube.com/watch?v=NSxQ__iinOk). Vacuum packers require special corrugated [CASO 27,5x600cm](https://coyot.ua/rulon-dlya-vakuumatora-caso-275x600cm-2-sht/).
+‚Äì For long-term storage of cereals, there are vacuum packers [CASO FastVac 500](https://www.youtube.com/watch?v=NSxQ__iinOk). Vacuum packers require special corrugated [CASO 27,5x600cm](https://coyot.ua/rulon-dlya-vakuumatora-caso-275x600cm-2-sht/).
 You can also throw a few bay leaves and salt in a bag into a vacuum bag.
 Also [traditional methods](https://www.youtube.com/watch?v=nIeNgvOdxGg).
 
-ñ We recommend making large reserves of green buckwheat. When buckwheat is sprouted, the amount of vitamins increases many times over. A family of four needs 12 kg of buckwheat per month.
+‚Äì We recommend making large reserves of green buckwheat. When buckwheat is sprouted, the amount of vitamins increases many times over. A family of four needs 12 kg of buckwheat per month.
 
 In second place is oatmeal because it has a lot of protein. Rice contains a lot of carbohydrates.
 
-ñ Flour for 5+ years.
+Food supplies for at least a year.
+
+‚Äì Flour for 5+ years.
 1. Sift the flour with a sieve.
 2. Place 3 bay leaves at the bottom of a 10-liter plastic bottle.
 3. Fill the flour halfway and add three cloves of unpeeled garlic.
 4. Add flour to the top and add three more bay leaves.
 5. Screw the bottle tightly. You can also fill the lid with wax.
 
-ñ We highly recommend stocking up on concentrated vitamins. As survivors say, when choosing: one tablet of vitamins or a kilogram of pasta, we definitely choose vitamins.
-We provided a complete list of vitamins in the section ìPollution -> Vitamins, Iodine and dietary supplementsî. Here we repeat the basics for nutrition:
+‚Äì We highly recommend stocking up on concentrated vitamins. As survivors say, when choosing: one tablet of vitamins or a kilogram of pasta, we definitely choose vitamins.
+We provided a complete list of vitamins in the section ‚ÄúPollution -> Vitamins, Iodine and dietary supplements‚Äù. Here we repeat the basics for nutrition:
 * [Multivitamins](https://ua.iherb.com/c/multivitamins)
 * [Vitamin B Complex](https://ua.iherb.com/c/vitamin-b-complex) (especially for vegetarians)
 * [Vitamin D](https://ua.iherb.com/c/vitamin-d)
@@ -332,7 +335,7 @@ Follow global news more than local ones, <ins>read between the lines</ins>.
 
 ## Conclusion
 
-There is a theory that: the apocalypse is an individual phenomenon. If a person cannot remember the last time he heard birds singing, then for him the birds have already fallen silent. If he canít remember when he looked at the stars, then for him the stars have already gone out...
+There is a theory that: the apocalypse is an individual phenomenon. If a person cannot remember the last time he heard birds singing, then for him the birds have already fallen silent. If he can‚Äôt remember when he looked at the stars, then for him the stars have already gone out...
 
 There is no need to run and shout what is coming. Most will not believe it, but remaining silent on the quiet may also be unconscionable. You can simply say: I am preparing and I recommend it to you.
 
