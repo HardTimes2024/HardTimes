@@ -243,7 +243,7 @@ When Hard Times come, most countries will begin to ban food exports. Even now, w
 We don’t know when famine will begin, so we recommend storing long-lasting food items, for at least two years. There are many videos on the Internet on how to store flour for 10 years and cereals for 15 years.
 <br /><br />
 
-#### Possible reasons for product shortages
+#### Hypothetical reasons that could lead to food shortages in the near future
 
 1. Military operations on the main sea trade routes.
 
