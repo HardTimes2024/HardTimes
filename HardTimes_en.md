@@ -112,6 +112,7 @@ Let us consider such scenarios:
 
 – **Informational resources**:
 
+* [ready.gov/kit](https://www.ready.gov/kit)
 * [windy.com](http://windy.com) you can track in which direction the air masses are moving.
 * [radmon.org](https://radmon.org) is not government radiation monitoring.
 * [iaea.org](https://www.iaea.org) International Atomic Energy Agency.
