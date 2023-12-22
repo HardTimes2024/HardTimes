@@ -80,6 +80,16 @@ Version 1.0: 2023.11.05
 Отказаться от дорогих покупок, войти в экономный режим. Покупать только то, что поможет преодолеть Сложные Времена. 
 
 Ожидаем массовые забастовки и беспорядки, потерявших работу людей. Забастовки будут жестоко [подавляться](https://www.military.com/military-life/6-times-military-was-used-suppress-civilian-uprisings-us.html) армией и полицией.
+
+– **Дополнения**
+
+* [11 Great Depression Era Habits Coming Back In Style: Frugal Skills For Economic Downturn](https://www.youtube.com/watch?v=AijxEuJKRx4)
+* [10 Tips from my Grandma's from the Great Depression](https://www.youtube.com/watch?v=TSxKxKPDli8)
+* [How To Prepare For Hyperinflation](https://www.youtube.com/watch?v=pGmljjfLXaY)
+* [How To SURVIVE Hyperinflation: 11 Tips That Could Save Your Life](https://www.youtube.com/watch?v=AYFyaw5NBJY)
+* [101-Year-Old Grandmother: Life in the Great Depression](https://www.youtube.com/watch?v=GoeI-Q8jQKk)
+
+
 <br /><br />
 
 ## Загрязнения

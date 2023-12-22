@@ -77,6 +77,16 @@ You can also purchase non-perishable goods that may be useful in Hard Times for 
 Give up expensive purchases, enter economical mode. Buy only what will help you overcome Hard Times.
 
 We expect mass strikes and riots, people losing their jobs. Strikes will be brutally [suppressed](https://www.military.com/military-life/6-times-military-was-used-suppress-civilian-uprisings-us.html) by the army and police.
+
+– **Additionals**
+
+* [11 Great Depression Era Habits Coming Back In Style: Frugal Skills For Economic Downturn](https://www.youtube.com/watch?v=AijxEuJKRx4)
+* [10 Tips from my Grandma's from the Great Depression](https://www.youtube.com/watch?v=TSxKxKPDli8)
+* [How To Prepare For Hyperinflation](https://www.youtube.com/watch?v=pGmljjfLXaY)
+* [How To SURVIVE Hyperinflation: 11 Tips That Could Save Your Life](https://www.youtube.com/watch?v=AYFyaw5NBJY)
+* [101-Year-Old Grandmother: Life in the Great Depression](https://www.youtube.com/watch?v=GoeI-Q8jQKk)
+
+
 <br /><br />
 
 ## Pollution
@@ -202,8 +212,7 @@ Protocol in case you are not in the 30-kilometer zone, otherwise there will most
 1. As soon as they found out that there is an increased level of radiation in the city, warn relatives and friends, everyone immediately goes home.
 <br />1.1 When outside, immediately protect your respiratory organs with a scarf.
 <br />1.2 When you get home, measure the radiation of your outer clothing and shoes; if it is above 0.30 µSv/h, place the clothing in a sealed trash bag.
-<br />
-1.3 take a shower.
+<br />1.3 take a shower.
 
 2. Turn off the room ventilation system.
 3. Listen to the radio: should you take iodine? The closer to the epicenter, the faster you need to take it. It is better to take the tablet with clean food.
