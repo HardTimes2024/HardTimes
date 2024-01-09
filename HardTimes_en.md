@@ -1,6 +1,6 @@
 # Hard Times
 
-Version 1.0: 2023.11.05
+2023.11.05
 
 A warning about upcoming events, for which we should prepare URGENTLY.
 
@@ -15,6 +15,8 @@ This information is taken from intuitive sources and common sense.
 * lead a healthy lifestyle
 * study spiritual practices: yoga, qigong
 * praise the Gods and <ins>not ask for</ins> anything from them even in hard times.
+
+We believe that the planet has entered the hybrid phase of the Third World War.
 
 Modern people have too binary thinking: everything will be either fine or a complete apocalypse. Why then prepare? But the truth is in the middle. More advanced type of thinking: probabilistic.
 An ancient saying: hope for the best and prepare for the worst.
